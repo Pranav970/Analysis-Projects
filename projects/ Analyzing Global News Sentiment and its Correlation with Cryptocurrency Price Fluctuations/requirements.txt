@@ -1,1 +1,11 @@
-
+requests
+beautifulsoup4
+nltk
+psycopg2-binary
+pymongo
+python-dotenv
+flask
+scikit-learn
+tensorflow
+pandas
+powerbi-client  # For Power BI API interaction
